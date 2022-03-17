@@ -8,5 +8,5 @@
 
 
 # My Goal
-- $Joining an ongoing competition on Kaggle_필사를 통해 실력을 쌓은 후 궁극적으로는 대회에 참여하고 싶습니다$
-- $Typing every single line of codes based on my understanding_조금 느리더라도 코드 한줄 한줄 소화시키는 것이 목표입니다.$
+- $$Joining an ongoing competition on Kaggle_필사를 통해 실력을 쌓은 후 궁극적으로는 대회에 참여하고 싶습니다$$
+- $$Typing every single line of codes based on my understanding_조금 느리더라도 코드 한줄 한줄 소화시키는 것이 목표입니다.$$
