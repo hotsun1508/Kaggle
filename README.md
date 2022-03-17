@@ -1,6 +1,6 @@
 # Kaggle
 
-repo for kaggle practice 🤩
+`repo for kaggle practice` 🤩
 
 1. Courses에 있는 부분 필사 
 2. Getting Started “hotness”순서대로 필사
