@@ -7,7 +7,8 @@
 3. 캐글 필사 로드맵 참고하여 필사 -> https://kaggle-kr.tistory.com/32
 
 
-# My Goal
+
+## My Goal
 - Joining an ongoing competition on Kaggle 
 >필사를 통해 실력을 쌓은 후 궁극적으로는 대회에 참여하고 싶습니다
 - Typing every single line of codes based on my understanding
